@@ -1,0 +1,6 @@
+111 is not in the tree
+11 is not in the tree
+1 11 111 
+Deletion Error: 111 does not exist
+1 11 
+
